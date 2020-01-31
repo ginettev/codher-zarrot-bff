@@ -1,0 +1,8 @@
+.gradle/
+.idea/
+.mvn/
+.DS_Store
+build/
+test/
+README.adoc
+

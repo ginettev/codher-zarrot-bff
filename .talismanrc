@@ -1,0 +1,5 @@
+fileignoreconfig:
+- filename: mvnw
+  checksum: 365ce73ca3e94c16863012e714c9fc54694d0ab65f2e8273ce47a3eea6029f8f
+  ignore_detectors: []
+scopeconfig: []

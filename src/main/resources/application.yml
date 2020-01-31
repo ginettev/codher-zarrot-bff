@@ -1,0 +1,6 @@
+server:
+  port: 8081
+service:
+  restaurant: "http://localhost:8082/restaurants"
+  coupon: "http://localhost:5000/coupons/"
+

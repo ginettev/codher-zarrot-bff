@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "title": "Get 20% discount using Citi Bank Cards",
+    "type": "Regular",
+    "code": "CITIFOODIE",
+    "imageUrl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_40,h_40/c8rijyftetnv3kgatbbt",
+    "details": [
+      "Offer valid twice per user per month",
+      "Maximum discount is Rs.200 only",
+      "Offer valid on a minimum cart value of Rs.600",
+      "Offer valid till Oct 31, 2019 23:59 PM"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Get 50% cashback using LazyPay",
+    "type": "Regular",
+    "code": "150LAZYPAY",
+    "imageUrl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_40,h_40/kj4khfwj6knnkskw4df3",
+    "details": [
+      "Offer valid once per user on a minimum cart value of Rs.199",
+      "Maximum cashback amount is Rs.150",
+      "Offer valid on Thursday to Sunday",
+      "Offer valid till Oct 31, 2019 23:59 PM"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Get 10X reward points on HDFC Bank Diners Club Credit Cards",
+    "type": "Bank",
+    "imageUrl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_40,h_40/hdfc_edwzub",
+    "details": [
+      "Valid on a minimum cart value of Rs.150",
+      "Valid only on HDFC Bank Diners Club Credit Cards",
+      "Offer valid till 31st December 2019"
+    ]
+  }
+]

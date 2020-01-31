@@ -1,0 +1,32 @@
+[
+  {
+    "userId": 123456,
+    "items": [
+      {
+        "name": "Veg Clear Soup",
+        "quanity": 1,
+        "price" : 70.0
+      },
+      {
+        "name": "Gobi Manchurian Dry",
+        "quanity": 1,
+        "price" : 110.0
+      }
+    ]
+  },
+  {
+    "userId": 86874,
+    "items": [
+      {
+        "name": "Almond Milkshake",
+        "quanity": 1,
+        "price" : 150.0
+      },
+      {
+        "name": "Veg Sandwich",
+        "quanity": 1,
+        "price" : 70.0
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Sangeetha",
+    "category": "South Indian",
+    "imageUrl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/rwleaxshsdmi9o9zy8yt",
+    "rating": "4.4",
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese"
+    ],
+    "discounts": [
+      {
+        "type" : "Percentage"
+      }
+    ]
+  },
+  {
+    "name": "Maggi Shop",
+    "category": "Fast Food",
+    "imageUrl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/w61xwrpworrnvpakjg0o",
+    "rating": "4.2",
+    "cuisines": [
+      "Fast Food"
+    ],
+    "discounts": [
+      {
+        "type": "Percentage"
+      },
+      {
+        "type": "Freebie"
+      }
+    ]
+  },
+  {
+    "name": "American Eats",
+    "category": "Fast Food",
+    "imageUrl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/cushgjkny8igkp2fpyvy",
+    "rating": "3.8",
+    "cuisines": [
+      "Juices",
+      "American",
+      "Mexican"
+    ],
+    "discounts": []
+  }
+]
